@@ -5,7 +5,12 @@ type: members
 permalink: /members/
 ---
 
-<style>
+<style
+  .members-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    gap: 2rem; 
+  }
   .member-card {
     display: flex;
     align-items: center;
@@ -47,6 +52,7 @@ permalink: /members/
     <p><strong>Tel:</strong> +852-56396211</p>
     <p><strong>Personal website:</strong> <a href="https://yingchaoao.github.io/" target="_blank">https://yingchaoao.github.io/</a></p>
   </div>
+</div>
   <div class="member-photo">
     <img src="../images/yc.png" alt="ZHANG Yingchao">
   </div>
