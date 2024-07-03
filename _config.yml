@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Prof. LIU Cheng's Group"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "LIU Cheng"
 description              : &description "personal description"
-url                      : https://liuchenglab.github.io
+url                      : "https://liuchenglab.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liuchenglab/liuchenglab.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Hong Kong SAR"
   employer         : "City University of Hong Kong"
-  uri              : "https://scholars.cityu.edu.hk/en/persons/cheng-liu(bf692055-c300-49f7-9cb4-9f6f7a714c11).html"
+  CityU Scholar    : "https://scholars.cityu.edu.hk/en/persons/cheng-liu(bf692055-c300-49f7-9cb4-9f6f7a714c11).html"
   email            : "cliu647@cityu.edu.hk" 
 
   # Academic websites
