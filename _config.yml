@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Hong Kong SAR"
-  employer         : "[City University of Hong Kong](https://scholars.cityu.edu.hk/en/persons/cheng-liu(bf692055-c300-49f7-9cb4-9f6f7a714c11).html)"
-  uri              : # 
+  employer         : "City University of Hong Kong"
+  uri              : "https://scholars.cityu.edu.hk/en/persons/cheng-liu(bf692055-c300-49f7-9cb4-9f6f7a714c11).html"
   email            : "cliu647@cityu.edu.hk" 
 
   # Academic websites
