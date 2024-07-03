@@ -40,7 +40,18 @@ permalink: /members/
     <img src="../images/yc.png" alt="ZHANG Yingchao">
   </div>
   <div class="member-info">
-    <h2>ZHANG Yingchao (PhD student)</h2>
+    <h2>ZHANG Yingchao (PhD student, 2023.09-present)</h2>
+    <p><strong>B.S:</strong> Shandong University</p>
+    <p><strong>M.S:</strong> Shandong University</p>
+    <p><strong>Email:</strong> yingchao.zhang@my.cityu.edu.hk</p>
+    <p><strong>Tel:</strong> +852-56396211</p>
+    <p><strong>Personal website:</strong> <a href="https://yingchaoao.github.io/" target="_blank">https://yingchaoao.github.io/</a></p>
+  </div>
+  <div class="member-photo">
+    <img src="../images/yc.png" alt="ZHANG Yingchao">
+  </div>
+  <div class="member-info">
+    <h2>ZHANG Yingchao (PhD student, 2023.09-present)</h2>
     <p><strong>B.S:</strong> Shandong University</p>
     <p><strong>M.S:</strong> Shandong University</p>
     <p><strong>Email:</strong> yingchao.zhang@my.cityu.edu.hk</p>
