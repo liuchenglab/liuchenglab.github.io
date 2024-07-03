@@ -26,26 +26,26 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Hong Kong SAR"
-  employer         : "City University of Hong Kong"
-  uri              : # URL
+  employer         : "[City University of Hong Kong](https://scholars.cityu.edu.hk/en/persons/cheng-liu(bf692055-c300-49f7-9cb4-9f6f7a714c11).html)"
+  uri              : # 
   email            : "cliu647@cityu.edu.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=AMVh5fAAAAAJ&hl=en"
-  # impactstory      : # URL
+  # impactstory      : 
   orcid            : "https://orcid.org/0000-0003-4174-2046"
   # semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # researchgate     : # URL
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  # bitbucket        : # Username - Update with your username on the site
+  # codepen          : # Username
+  # dribbble         : # Username
+  # github           : "academicpages"
+  # kaggle           : # Username  
+  # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
