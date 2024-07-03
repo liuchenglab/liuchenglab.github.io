@@ -1,14 +1,16 @@
-# Vibroacoustic modeling
+# <span style="color: #a00000;">Pavement damage detection</span>
 
----
+<hr style="border: 2px solid #000000;" />
 
-Vibroacoustics studies the interaction between sound waves and structural vibrations. Efficient modeling of complex vibroacoustic systems is usually challenging. Although commercial FEM and BEM software packages are available, they lack the efficiency and flexibility for optimization purposes. To solve these challenges, we developed sub-structuring Patch Transfer Function (PTF) approach and Iso-geometric modeling method for efficient modeling of vibroacoustic systems. The accuracy and efficiency have been demonstrated through representative vibroacoustic systems.
+The project focuses on leveraging computer vision techniques to detect and classify road damages. The primary goal is to develop an automated system that can identify various types of road defects such as potholes, cracks, and surface wear from images or video footage captured by vehicles or drones. The approach involves training convolutional neural networks (CNNs) on annotated datasets to recognize patterns associated with different types of road damage.
 
-![Vibroacoustic Modeling](../images/R1.png){ width=100% }
+By implementing advanced image processing algorithms and machine learning models, the system aims to provide accurate and real-time damage assessment. This can significantly improve maintenance planning and resource allocation, leading to safer and more efficient road infrastructure management.
 
-# Another Research Topic
+![Vibroacoustic Modeling](../images/R1.png)
 
----
+# <span style="color: #a00000;">Research 2</span>
+
+<hr style="border: 2px solid #000000;" />
 
 Another Research Content description goes here. This is an example of how you can describe another research topic in the same format. You can add more details here.
 
