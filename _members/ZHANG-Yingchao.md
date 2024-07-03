@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Members"
-permalink: /members/
+type: members
+permalink: /_members/
 ---
 <style>
   .member-card {
