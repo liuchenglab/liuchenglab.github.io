@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Members"
-permalink: /members/ZHANG-Yingchao
+permalink: /members/
 ---
 <style>
   .member-card {
@@ -14,7 +14,7 @@ permalink: /members/ZHANG-Yingchao
     margin-right: 20px;
   }
   .member-photo img {
-    width: 100%;
+    max-width: 100%; /* 确保图片不会超出容器的宽度 */
     height: auto;
     border-radius: 8px;
   }
@@ -23,19 +23,19 @@ permalink: /members/ZHANG-Yingchao
   }
   .member-info h2 {
     margin: 0;
-    color: #a00000; 
+    color: #a00000; /* 修改为你想要的颜色 */
   }
   .member-info p {
     margin: 0.5rem 0;
   }
   .member-info a {
-    color: #a00000; 
+    color: #a00000; /* 修改为你想要的颜色 */
   }
 </style>
 
 <div class="member-card">
   <div class="member-photo">
-    <img src="path/to/photo.jpg" alt="ZHANG Yingchao">
+    <img src="https://github.com/liuchenglab/liuchenglab.github.io/blob/master/images/yc.png" alt="ZHANG Yingchao">
   </div>
   <div class="member-info">
     <h2>ZHANG Yingchao (PhD student)</h2>
