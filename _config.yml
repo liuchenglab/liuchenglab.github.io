@@ -21,7 +21,7 @@ repository               : "liuchenglab/liuchenglab.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://github.com/liuchenglab/liuchenglab.github.io/blob/master/images/Prof.Liu.png"
   name             : "Prof LIU Cheng"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
