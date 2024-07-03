@@ -53,6 +53,8 @@ permalink: /members/
     <p><strong>Personal website:</strong> <a href="https://yingchaoao.github.io/" target="_blank">https://yingchaoao.github.io/</a></p>
   </div>
 </div>
+
+<div class="member-card">
   <div class="member-photo">
     <img src="../images/yc.png" alt="ZHANG Yingchao">
   </div>
