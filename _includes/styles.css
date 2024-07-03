@@ -1,0 +1,25 @@
+.research-section {
+    border-bottom: 1px solid #ccc;
+    padding: 1rem 0;
+}
+
+.research-title {
+    color: #a00000;
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.research-content {
+    padding: 1rem 0;
+}
+
+.research-content p {
+    font-style: italic;
+    margin: 0.5rem 0;
+}
+
+.research-content img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 1rem;
+}
