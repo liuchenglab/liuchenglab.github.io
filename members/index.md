@@ -8,7 +8,7 @@ permalink: /members/
 <style
   .members-grid {
     display: grid;
-    grid-template-columns: 1fr 1fr; 
+    grid-template-columns: 1fr; 
     gap: 2rem; 
   }
   .member-card {
