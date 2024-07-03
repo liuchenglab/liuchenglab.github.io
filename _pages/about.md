@@ -1,19 +1,25 @@
-# <span style="color: #a00000;">课题组主页</span>
+---
+permalink: /
+title: "Prof LIU Cheng's Group"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+# <span style="color: #a00000;">Prof LIU Cheng's Group</span>
+Cheng Liu's research is focused on Physics-Guided Machine Learning for Structural Health Monitoring (SHM), Smart Structures, Cyber-physical Systems/Digital Twin, Robotic Tactile Sensing and Mechanics of Composite Structures. His recent research includes the fusion of data-driven and physics-based methods for SHM to improve its robustness and explainability, so that SHM can really be widely applied in real-world scenarios and thrive in the era of Industry 4.0.
+
+Dr. Liu received his PhD from the Department of Mechanical Engineering at Stanford University. He obtained his M.Sc. in Aeronautics and Astronautics from Stanford University in 2015 and his B.Sc. in Aircraft Design and Engineering, from Nanjing University of Aeronautics and Astronautics (NUAA) in 2013.
 
 ## <span style="color: #a00000;">News</span>
-
 <hr style="border: 2px solid #000000;" />
 
 ### 2024-07-01: New Paper Published
 
 We are pleased to announce that our latest paper on road damage detection using computer vision has been published in the IEEE Transactions on Intelligent Transportation Systems. [Read more](https://doi.org/10.1109/TITS.2024.3416508)
 
-### 2024-06-15: Conference Presentation
-
-Our team presented our recent findings at the International Conference on Computer Vision (ICCV) 2024. The presentation was well-received and sparked many interesting discussions. [Read more](#)
-
 ## <span style="color: #a00000;">Prizes/Honours</span>
-
 <hr style="border: 2px solid #000000;" />
 
 ### 2023-12-10: Best Paper Award
@@ -24,26 +30,8 @@ Our paper titled "Efficient Vibroacoustic Modeling" received the Best Paper Awar
 
 The team was honored with the Research Excellence Award by the National Science Foundation for our contributions to computational mechanics.
 
-## <span style="color: #a00000;">招生信息</span>
-
+## <span style="color: #a00000;">Position(s) Available</span>
 <hr style="border: 2px solid #000000;" />
+I am actively recruiting PhD students in the department of ADSE at CityU HK. Potential research areas include but not limited to the following: multiphysics simulation in COMSOL or ABAQUS, Structural Health Monitoring and the application of deep learning or transfer learning in engineering problems. Please email me (cliu647@cityu.edu.hk) for further discussion if you are interested.
 
-我们正在招收有志于从事计算机视觉和道路病害检测研究的硕士和博士研究生。如果你对我们的研究课题感兴趣，请发送你的简历和研究计划到 [email@example.com](mailto:email@example.com)。
 
-### 招生要求：
-
-- 计算机科学、电子工程、机械工程或相关专业背景
-- 较强的编程能力和数学基础
-- 有计算机视觉、机器学习或图像处理经验者优先
-
-## <span style="color: #a00000;">自我简介</span>
-
-<hr style="border: 2px solid #000000;" />
-
-![Profile Picture](your-profile-picture-url.jpg){ width=150px; float=left; margin-right=20px; }
-
-### Dr. John Doe
-
-Dr. John Doe is a Professor of Mechanical Engineering at XYZ University. He received his Ph.D. in Computational Mechanics from ABC University in 2010. His research interests include vibroacoustic modeling, computational mechanics, and computer vision. Dr. Doe has published over 50 peer-reviewed journal articles and has received numerous awards for his contributions to the field.
-
-Dr. John Doe教授是XYZ大学机械工程学院的教授。他于2010年在ABC大学获得计算力学博士学位。他的研究兴趣包括振动声学建模、计算力学和计算机视觉。Doe教授已发表了50多篇同行评审的期刊文章，并因其在该领域的贡献获得了许多奖项。
