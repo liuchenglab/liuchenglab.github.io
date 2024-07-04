@@ -24,7 +24,12 @@ author:
   avatar           : "LIU.png"
   name             : "Prof LIU Cheng"
   pronouns         : # example: "she/her"  
-  bio              : "Physics-Guided Deep Learning\nStructural Health Monitoring\nStructural Digital Twin\nSmart Materials and Structures\nCFRP Composites"
+  bio              : >-
+  Physics-Guided Deep Learning
+  Structural Health Monitoring
+  Structural Digital Twin
+  Smart Materials and Structures
+  CFRP Composites
   location         : "Hong Kong SAR"
   employer         : "City University of Hong Kong"
   CityU Scholar    : "https://scholars.cityu.edu.hk/en/persons/cheng-liu(bf692055-c300-49f7-9cb4-9f6f7a714c11).html"
