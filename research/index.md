@@ -14,4 +14,4 @@ By implementing advanced image processing algorithms and machine learning models
 
 Another Research Content description goes here. This is an example of how you can describe another research topic in the same format. You can add more details here.
 
-![Another Research Image](../images/R1.png){ width=100% }
+![Another Research Image](../images/R1.png)
