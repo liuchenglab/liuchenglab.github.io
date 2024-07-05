@@ -33,7 +33,7 @@ redirect_from:
         <h2 style="color: #333; border-bottom: 2px solid #ddd; padding-bottom: 5px;">Awards</h2>
     
         <p><strong>Sep 2019: Best Poster Paper Award</strong></p>
-        <p>12th International Workshop on Structural Health Monitoring. <a href="#">URL</a></p>
+        <p>12th International Workshop on Structural Health Monitoring.</p>
     
         <p><strong>Jun 2016: Stanford Centennial Teaching Assistant Award</strong></p>
         <p>Stanford University.</p>
@@ -49,8 +49,5 @@ redirect_from:
 
 </div>
 
-Sep 2019 “Best Poster Paper Award ” 12th International Workshop on Structural Health Monitoring. [URL]
-Jun 2016 “Stanford Centennial Teaching Assistant Award” Stanford University.
-May 2024 “Finalist of 2024 Best Transaction Paper Award for 2024 IEEE/ASME Transactions on Mechatronics” Management Committee and Editorial Board of IEEE/ASME Transactions on Mechatronics.
 
 
