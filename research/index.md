@@ -8,12 +8,3 @@ By implementing advanced image processing algorithms and machine learning models
 
 ![Vibroacoustic Modeling](../images/R1.png)
 
-# <span style="color: #a00000;">Fatigue damage detection of composite structures</span>
-
-<hr style="border: 2px solid #000000;" />
-
-This project aims to analyze the ultrasonic guided wave monitoring signals of composite structures, and to construct a damage detection model to accurately detect and locate the fatigue damage.
-
-By analyzing the relationship between the axial stiffness of the structure and the power spectral density (PSD) of the guided wave signals, a damage index (DI) model is established to provide prior physical knowledge for the data-driven model. With the physics-based guidance from DI model, as well as the physically-consistent constraint, the model can output damage detection results consistent with the existing physical principles. The guidance from physical perspective introduces physical interpretability into the damage detection model, which ensures the long-term, stable, and reliable service of composite structures.
-
-![Composite Structure Damage detection](../images/PGCNN.png.png)
