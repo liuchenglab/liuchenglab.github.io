@@ -1,0 +1,10 @@
+---
+title: "Deep transfer learning-based damage detection of composite structures by fusing monitoring data with physical mechanism"
+collection: publications
+permalink: /publication/EAAI2023-1
+excerpt: 'This study proposes a pavement crack segmentation algorithm called MixCrackNet. MixCrackNet leverages deformable convolution, weighted loss functions, an efficient multi-scale attention module, and the Mix Structure to identify pavement cracks. '
+date: 2023-03-28
+venue: 'Engineering Applications of Artificial Intelligence'
+paperurl: 'https://doi.org/10.1016/j.engappai.2023.106245'
+citation: 'Liu, C., Xu, X., Wu, J., Zhu, H., & Wang, C. (2023). Deep transfer learning-based damage detection of composite structures by fusing monitoring data with physical mechanism. Engineering Applications of Artificial Intelligence, 123, Article 106245. https://doi.org/10.1016/j.engappai.2023.106245'
+---
