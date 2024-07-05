@@ -6,5 +6,5 @@ excerpt: 'This study proposes a deep transfer learning-based model, called MDAAN
 date: 2023-03-28
 venue: 'Engineering Applications of Artificial Intelligence'
 paperurl: 'https://doi.org/10.1016/j.engappai.2023.106245'
-citation: 'Liu, C., Xu, X., Wu, J., Zhu, H., & Wang, C. (2023). Deep transfer learning-based damage detection of composite structures by fusing monitoring data with physical mechanism. Engineering Applications of Artificial Intelligence, 123, Article 106245. https://doi.org/10.1016/j.engappai.2023.106245'
+citation: '<strong>Liu, C</strong>., Xu, X., Wu, J., Zhu, H., & Wang, C. (2023). Deep transfer learning-based damage detection of composite structures by fusing monitoring data with physical mechanism. Engineering Applications of Artificial Intelligence, 123, Article 106245. https://doi.org/10.1016/j.engappai.2023.106245'
 ---
