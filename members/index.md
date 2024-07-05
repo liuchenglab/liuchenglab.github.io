@@ -22,9 +22,6 @@ permalink: /members/
   </div>
 
   <div class="member-card">
-    <div class="member-photo">
-      <img src="../images/yc.png" alt="XU Xuebing">
-    </div>
     <div class="member-info">
       <h2>XU Xuebing (PhD student, 2024.01-present)</h2>
       <p><strong>B.S:</strong> Huazhong University of Science and Technology</p>
