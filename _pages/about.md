@@ -30,14 +30,6 @@ redirect_from:
     </div>
 
     <div style="margin-bottom: 20px;">
-        <h2 style="color: #333; border-bottom: 2px solid #ddd; padding-bottom: 5px;">Prizes/Honours</h2>
-        <p><strong>2023-12-10: Best Paper Award</strong></p>
-        <p>Our paper titled “Efficient Vibroacoustic Modeling” received the Best Paper Award at the International Conference on Acoustics 2023.</p>
-        <p><strong>2022-09-20: Research Excellence Award</strong></p>
-        <p>The team was honored with the Research Excellence Award by the National Science Foundation for our contributions to computational mechanics.</p>
-    </div>
-
-    <div style="margin-bottom: 20px;">
         <h2 style="color: #333; border-bottom: 2px solid #ddd; padding-bottom: 5px;">Position(s) Available</h2>
         <p>I am actively recruiting PhD students in the department of ADSE at CityU HK. Potential research areas include but are not limited to the following: multiphysics simulation in COMSOL or ABAQUS, Structural Health Monitoring and the application of deep learning or transfer learning in engineering problems. Please email me (<a href="mailto:cliu647@cityu.edu.hk">cliu647@cityu.edu.hk</a>) for further discussion if you are interested.</p>
     </div>
