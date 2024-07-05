@@ -30,10 +30,27 @@ redirect_from:
     </div>
 
     <div style="margin-bottom: 20px;">
+        <h2 style="color: #333; border-bottom: 2px solid #ddd; padding-bottom: 5px;">Awards</h2>
+    
+        <p><strong>Sep 2019: Best Poster Paper Award</strong></p>
+        <p>12th International Workshop on Structural Health Monitoring. <a href="#">URL</a></p>
+    
+        <p><strong>Jun 2016: Stanford Centennial Teaching Assistant Award</strong></p>
+        <p>Stanford University.</p>
+    
+        <p><strong>May 2024: Finalist of 2024 Best Transaction Paper Award</strong></p>
+        <p>Management Committee and Editorial Board of IEEE/ASME Transactions on Mechatronics.</p>
+</div>
+
+    <div style="margin-bottom: 20px;">
         <h2 style="color: #333; border-bottom: 2px solid #ddd; padding-bottom: 5px;">Position(s) Available</h2>
         <p>I am actively recruiting PhD students in the department of ADSE at CityU HK. Potential research areas include but are not limited to the following: multiphysics simulation in COMSOL or ABAQUS, Structural Health Monitoring and the application of deep learning or transfer learning in engineering problems. Please email me (<a href="mailto:cliu647@cityu.edu.hk">cliu647@cityu.edu.hk</a>) for further discussion if you are interested.</p>
     </div>
 
 </div>
+
+Sep 2019 “Best Poster Paper Award ” 12th International Workshop on Structural Health Monitoring. [URL]
+Jun 2016 “Stanford Centennial Teaching Assistant Award” Stanford University.
+May 2024 “Finalist of 2024 Best Transaction Paper Award for 2024 IEEE/ASME Transactions on Mechatronics” Management Committee and Editorial Board of IEEE/ASME Transactions on Mechatronics.
 
 
