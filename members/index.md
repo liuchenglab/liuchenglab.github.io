@@ -32,14 +32,14 @@ permalink: /members/
 
   <div class="member-card">
     <div class="member-photo">
-      <img src="../images/profile.png" alt="CHEN Yan">
+      <img src="../images/cy.png" alt="CHEN Yan">
     </div>
     <div class="member-info">
-      <h2>CHEN Yan (PhD student, 2023.09-present)</h2>
-      <p><strong>B.S:</strong> XX University</p>
-      <p><strong>M.S:</strong> XX University</p>
-      <p><strong>Email:</strong> XX@my.cityu.edu.hk</p>
-      <p><strong>Tel:</strong> +852-XXX</p>
+      <h2>CHEN Yan (PhD student, 2024.09-present)</h2>
+      <p><strong>B.S:</strong> National University of Defense Technology</p>
+      <p><strong>M.S:</strong> City University of Hong Kong</p>
+      <p><strong>Email:</strong> ychen935-c@my.cityu.edu.hk</p>
+      <p><strong>Tel:</strong> +852-69112315</p>
     </div>
   </div>
 
