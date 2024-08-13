@@ -25,8 +25,8 @@ redirect_from:
 
     <div style="margin-bottom: 20px;">
         <h2 style="color: #333; border-bottom: 2px solid #ddd; padding-bottom: 5px;">News</h2>
-        <p><strong>2024-07-01: New Paper Published</strong></p>
-        <p>We are pleased to announce that our latest paper on road damage detection using computer vision has been published in the IEEE Transactions on Intelligent Transportation Systems. <a href="#">Read more</a></p>
+        <p><strong>2024-07-22: New Paper Published</strong></p>
+        <p>We are pleased to announce that our latest paper on pavement cracks detection using computer vision has been published in the Automation in Construction. <a href="#">Read more</a></p>
     </div>
 
     <div style="margin-bottom: 20px;">
