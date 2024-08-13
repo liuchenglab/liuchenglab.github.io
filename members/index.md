@@ -12,7 +12,7 @@ permalink: /members/
       <img src="../images/LIU.png" alt="LIU Cheng">
     </div>
     <div class="member-info">
-      <h2>LIU Cheng (Assistant Professor, 2022.10-present)</h2>
+      <h2>Prof. LIU Cheng (Assistant Professor, 2022.10-present)</h2>
       <p><strong>Ph.D:</strong> Stanford University </p>
       <p><strong>Msc:</strong> Stanford University </p>
       <p><strong>B.E:</strong> Nanjing University of Aeronautics and Astronautics</p>
