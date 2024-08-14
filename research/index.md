@@ -34,7 +34,7 @@
     <h1>Research</h1>
     <h2>1. Multi-physics simulation for guided wave propagation in composite structures</h2>
     <p>Multi-physics simulation is utilized to develop finite element models of composite structures and ultrasonic guided wave active sensing systems for simulating the actuation, propagation and sensing of ultrasonic guided waves in anisotropic  materials. On this basis, the induction mechanism of typical failure modes at the microscale and the growth trend at the macroscale are investigated to design a damage injection method for exploring the propagation of ultrasonic guided waves in different damage states. In this way, by controlling the location and shape of the simulated damage areas, the run-to- failure data of composite structures can be obtained through simulation without expensive and labor-intensive accelerated aging tests.</p>
-  <img src="../images/r-1.png" alt="">
+  <img src="../images/xb-1.png" alt="">
 
     <h2>2. Pavement damage detection</h2>
     <p>The project focuses on leveraging computer vision techniques to detect and classify road damages. The primary goal is to develop an automated system that can identify various types of road defects such as potholes, cracks, and surface wear from images or video footage captured by vehicles or drones. The approach involves training convolutional neural networks (CNNs) on annotated datasets to recognize patterns associated with different types of road damage. By implementing advanced image processing algorithms and machine learning models, the system aims to provide accurate and real-time damage assessment. This can significantly improve maintenance planning and resource allocation, leading to safer and more efficient road infrastructure management.</p>
@@ -42,7 +42,7 @@
 
     <h2>3. Physics-guided deep learning for structural health monitoring in composite structures</h2>
     <p>Physics-guided deep learning approaches utilize existing physics knowledge to guide the training and inference of data-driven models, which introduces the necessary physical interpretability into the black-box and significantly improves its generalization. On the one hand, the physical model based on damage index helps the data-driven model to establish the link between signal energy changes and axial stiffness degradation of the structure. On the other hand, monotonicity constraints on the stiffness degradation ensure that the model predictions satisfy general physical laws. Eventually, with the above constraints of physics-based loss functions, the data-driven model achieves highly accurate damage identification across structures.</p>
-  <img src="../images/r-2.png" alt="">
+  <img src="../images/xb-2.png" alt="">
 
     <h2>4. Deep transfer learning-based damage detection method</h2>
     <h3>A. Few-shot meta transfer learning</h3>
@@ -50,7 +50,7 @@
     <img src="../images/cy-a.png" alt="">
     <h3>B. Multiple domain adaptive and adversarial transfer learning method</h3>
     <p>Physics-guided deep learning approaches utilize existing physics knowledge to guide the training and inference of data-driven models, which introduces the necessary physical interpretability into the black-box and significantly improves its generalization. On the one hand, the physical model based on damage index helps the data-driven model to establish the link between signal energy changes and axial stiffness degradation of the structure. On the other hand, monotonicity constraints on the stiffness degradation ensure that the model predictions satisfy general physical laws. Eventually, with the above constraints of physics-based loss functions, the data-driven model achieves highly accurate damage identification across structures.</p>
-    <img src="../images/r-3.png" alt="">
+    <img src="../images/xb-3.png" alt="">
 
     <h2>5. Structural Digital Twin</h2>
 
