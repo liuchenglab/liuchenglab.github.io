@@ -44,7 +44,7 @@ redirect_from:
 
     <div style="margin-bottom: 20px;">
         <h2 style="color: #333; border-bottom: 2px solid #ddd; padding-bottom: 5px;">Position(s) Available</h2>
-        <p>I am actively recruiting PhD students in the department of ADSE at CityU HK. Potential research areas include but are not limited to the following: multiphysics simulation in COMSOL or ABAQUS, Structural Health Monitoring and the application of deep learning or transfer learning in engineering problems. Please email me (<a href="mailto:cliu647@cityu.edu.hk">cliu647@cityu.edu.hk</a>) for further discussion if you are interested.</p>
+        <p>I am actively recruiting PhD students in the department of systems engineering at CityU HK. Potential research areas include but are not limited to the following: multiphysics simulation in COMSOL or ABAQUS, Structural Health Monitoring and the application of deep learning or transfer learning in engineering problems. Please email me (<a href="mailto:cliu647@cityu.edu.hk">cliu647@cityu.edu.hk</a>) for further discussion if you are interested.</p>
     </div>
 
 </div>
