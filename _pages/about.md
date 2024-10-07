@@ -10,7 +10,7 @@ redirect_from:
 
     <div style="text-align: center; margin-bottom: 20px;">
         <h1 style="color: #333;">Prof LIU Cheng’s Group</h1>
-        <h2 style="color: #666;">City University of Hong Kong, Department of Systems Engineering</h2>
+        <h2 style="color: #666;">Department of Systems Engineering, City University of Hong Kong</h2>
     </div>
 
     <div style="margin-bottom: 20px;">
