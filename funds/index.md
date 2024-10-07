@@ -32,7 +32,7 @@
 </head>
 <body>
     <h1>The NSFC Young Scientists Fund</h1>
-    <h2>Investigation Of Fatigue Crack Damage Diagnosis in Aerospace Composite Materials: A Data-Driven Approach Integrating Physical Mechanisms</h2>
+    <h2>Investigation of Fatigue Crack Damage Diagnosis in Aerospace Composite Materials: A Data-Driven Approach Integrating Physical Mechanisms</h2>
 
 </body>
 </html>
