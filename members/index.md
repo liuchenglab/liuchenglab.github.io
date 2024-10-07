@@ -23,7 +23,7 @@ permalink: /members/
 
   <div class="member-card">
     <div class="member-photo">
-      <img src="../images/yc.png" alt="ZHANG Yingchao">
+      <img src="../images/yc1.png" alt="ZHANG Yingchao">
     </div>
     <div class="member-info">
       <h2>ZHANG Yingchao (PhD student, 2023.09-present)</h2>
