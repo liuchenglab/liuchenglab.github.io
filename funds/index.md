@@ -32,8 +32,8 @@
 </head>
 <body>
     <h1>Funds</h1>
-    <h2>1. Multi-physics simulation for guided wave propagation in composite structures</h2>
-    <p>Multi-physics simulation is utilized to develop finite element models of composite structures and ultrasonic guided wave active sensing systems for simulating the actuation, propagation and sensing of ultrasonic guided waves in anisotropic  materials. On this basis, the induction mechanism of typical failure modes at the microscale and the growth trend at the macroscale are investigated to design a damage injection method for exploring the propagation of ultrasonic guided waves in different damage states. In this way, by controlling the location and shape of the simulated damage areas, the run-to- failure data of composite structures can be obtained through simulation without expensive and labor-intensive accelerated aging tests.</p>
+    <h2>Investigation Of Fatigue Crack Damage Diagnosis in Aerospace Composite Materials: A Data-Driven Approach Integrating Physical Mechanisms</h2>
+    <h3>The NSFC Young Scientists Fund</h3>
 
 </body>
 </html>
