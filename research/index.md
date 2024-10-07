@@ -53,7 +53,7 @@
     <img src="../images/xb-3.png" alt="">
 
     <h2>5. Structural Digital Twin</h2>
-    <img src="../images/eswa.jpg" alt="">
+    <img src="../images/eswa.png" alt="">
     <h2>6. Multi-agent and multi-object deep reinforcement learning for predictive maintenance</h2>
 
 </body>
