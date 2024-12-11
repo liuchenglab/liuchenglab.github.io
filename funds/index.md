@@ -34,5 +34,8 @@
     <h1>The NSFC Young Scientists Fund</h1>
     <h2>Investigation of Fatigue Crack Damage Diagnosis in Aerospace Composite Materials: A Data-Driven Approach Integrating Physical Mechanisms</h2>
 
+    <h1>Innovation and Technology Fund (ITF)</h1>
+    <h2>Design and Optimization of Automatic Pneumatic Grippers for Garment Manufacturing</h2>
+    <h2>1/1/2025 to 30/6/2026</h2>
 </body>
 </html>
