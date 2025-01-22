@@ -19,20 +19,23 @@ permalink: /members/
 
         .members-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(800px, 1fr));
+            grid-template-columns: minmax(800px, 1fr);
             gap: 2rem;
             padding: 1rem;
+            max-width: 1200px;
+            margin: 0 auto;
         }
 
         .member-card {
             display: grid;
-            grid-template-columns: 180px 1fr;
+            grid-template-columns: 200px 1fr;
             border: 1px solid #e0e0e0;
             border-radius: 8px;
             overflow: hidden;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
             transition: transform 0.2s;
             background-color: #ffffff;
+            align-items: center;
         }
 
         .member-card:hover {
@@ -41,12 +44,17 @@ permalink: /members/
 
         .member-photo {
             padding: 1rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100%;
         }
 
         .member-photo img {
             width: 100%;
-            aspect-ratio: 1;
-            object-fit: cover;
+            height: auto;
+            max-height: 240px;
+            object-fit: contain;
             border-radius: 4px;
         }
 
@@ -80,6 +88,7 @@ permalink: /members/
         @media (max-width: 800px) {
             .members-grid {
                 grid-template-columns: 1fr;
+                padding: 0.5rem;
             }
             
             .member-card {
@@ -87,14 +96,13 @@ permalink: /members/
             }
             
             .member-photo {
-                max-width: 180px;
+                max-width: 200px;
                 margin: 0 auto;
             }
         }
     </style>
 </head>
 <body>
-    <!-- 其余HTML内容保持不变 -->
     <div class="section-header">Assistant Professor</div>
     <div class="members-grid">
         <div class="member-card">
@@ -167,5 +175,4 @@ permalink: /members/
     </div>
 </body>
 </html>
-
 
