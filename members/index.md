@@ -19,18 +19,20 @@ permalink: /members/
 
         .members-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(800px, 1fr));
             gap: 2rem;
             padding: 1rem;
         }
 
         .member-card {
-            display: flex;
+            display: grid;
+            grid-template-columns: 180px 1fr;
             border: 1px solid #e0e0e0;
             border-radius: 8px;
             overflow: hidden;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
             transition: transform 0.2s;
+            background-color: #ffffff;
         }
 
         .member-card:hover {
@@ -38,37 +40,31 @@ permalink: /members/
         }
 
         .member-photo {
-            flex: 0 0 200px;
-            height: 240px;
-            display: flex;           /* 添加 flex 布局 */
-            align-items: center;     /* 垂直居中 */
-            justify-content: center; /* 水平居中 */
-            background-color: #f8f8f8; /* 可选：添加背景色 */
+            padding: 1rem;
         }
 
         .member-photo img {
             width: 100%;
-            height: 100%;
-            object-fit: contain;     /* 改为 contain 以保持图片比例 */
-            padding: 10px;           /* 添加内边距 */
+            aspect-ratio: 1;
+            object-fit: cover;
+            border-radius: 4px;
         }
 
         .member-info {
-            flex: 1;
             padding: 1.5rem;
             display: flex;
             flex-direction: column;
-            justify-content: center;
+            gap: 0.5rem;
         }
 
         .member-info h2 {
             font-size: 1.2rem;
-            margin-bottom: 1rem;
+            margin: 0;
             color: #333;
         }
 
         .member-info p {
-            margin: 0.5rem 0;
+            margin: 0;
             color: #666;
         }
 
@@ -81,19 +77,24 @@ permalink: /members/
             text-decoration: underline;
         }
 
-        @media (max-width: 640px) {
+        @media (max-width: 800px) {
+            .members-grid {
+                grid-template-columns: 1fr;
+            }
+            
             .member-card {
-                flex-direction: column;
+                grid-template-columns: 1fr;
             }
             
             .member-photo {
-                flex: 0 0 200px;
-                width: 100%;
+                max-width: 180px;
+                margin: 0 auto;
             }
         }
     </style>
 </head>
 <body>
+    <!-- 其余HTML内容保持不变 -->
     <div class="section-header">Assistant Professor</div>
     <div class="members-grid">
         <div class="member-card">
