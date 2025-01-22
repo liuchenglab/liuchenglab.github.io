@@ -4,7 +4,6 @@ title: "Members"
 permalink: /members/
 ---
 
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -21,12 +20,13 @@ permalink: /members/
 
         .members-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
             gap: 2rem;
             padding: 1rem;
         }
 
         .member-card {
+            display: flex;
             border: 1px solid #e0e0e0;
             border-radius: 8px;
             overflow: hidden;
@@ -39,9 +39,8 @@ permalink: /members/
         }
 
         .member-photo {
-            width: 100%;
-            height: 250px;
-            overflow: hidden;
+            flex: 0 0 200px;
+            height: 240px;
         }
 
         .member-photo img {
@@ -51,7 +50,11 @@ permalink: /members/
         }
 
         .member-info {
+            flex: 1;
             padding: 1.5rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
         }
 
         .member-info h2 {
@@ -72,6 +75,17 @@ permalink: /members/
 
         .member-info a:hover {
             text-decoration: underline;
+        }
+
+        @media (max-width: 640px) {
+            .member-card {
+                flex-direction: column;
+            }
+            
+            .member-photo {
+                flex: 0 0 200px;
+                width: 100%;
+            }
         }
     </style>
 </head>
@@ -118,9 +132,6 @@ permalink: /members/
                 <p><strong>B.E:</strong> Shandong University</p>
                 <p><strong>M.E:</strong> Shandong University</p>
                 <p><strong>Email:</strong> yingchao.zhang@my.cityu.edu.hk</p>
-                <p><strong>B.E:</strong> Huazhong University of Science and Technology</p>
-                <p><strong>M.E:</strong> Huazhong University of Science and Technology</p>
-                <p><strong>Email:</strong> xuebinxu-c@my.cityu.edu.hk </p>
                 <p><strong>Tel:</strong> +852-56396211</p>
                 <p><strong>Personal website:</strong> <a href="https://yingchaoao.github.io/" target="_blank">https://yingchaoao.github.io/</a></p>
             </div>
@@ -151,4 +162,5 @@ permalink: /members/
     </div>
 </body>
 </html>
+
 
