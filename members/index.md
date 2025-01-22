@@ -124,7 +124,7 @@ permalink: /members/
     <div class="members-grid">
         <div class="member-card">
             <div class="member-photo">
-                <img src="../images/yc1.png" alt="LI Shufei">
+                <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FShufei-Li-2&psig=AOvVaw26ARSreE-7oJtLvE65L1vu&ust=1737642911937000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCtz7jGiYsDFQAAAAAdAAAAABAE" alt="LI Shufei">
             </div>
             <div class="member-info">
                 <h2>Dr. LI Shufei (Postdoctoral Fellow, 2025.01-present)</h2>
