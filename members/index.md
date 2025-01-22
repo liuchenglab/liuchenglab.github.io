@@ -4,7 +4,6 @@ title: "Members"
 permalink: /members/
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
     <style>
@@ -41,12 +40,17 @@ permalink: /members/
         .member-photo {
             flex: 0 0 200px;
             height: 240px;
+            display: flex;           /* 添加 flex 布局 */
+            align-items: center;     /* 垂直居中 */
+            justify-content: center; /* 水平居中 */
+            background-color: #f8f8f8; /* 可选：添加背景色 */
         }
 
         .member-photo img {
             width: 100%;
             height: 100%;
-            object-fit: cover;
+            object-fit: contain;     /* 改为 contain 以保持图片比例 */
+            padding: 10px;           /* 添加内边距 */
         }
 
         .member-info {
