@@ -132,6 +132,18 @@ permalink: /members/
                 <p><strong>Email:</strong> shufei.li@outlook.com </p>
             </div>
         </div>
+
+        <div class="member-card">
+            <div class="member-photo">
+                <img src="../images/shiyan.jpg" alt="SHI Yan">
+            </div>
+            <div class="member-info">
+                <h2>Dr. SHI Yan (Postdoctoral Fellow, 2025.02-present)</h2>
+                <p><strong>B.E:</strong> Northwestern Polytechnical University </p>
+                <p><strong>Ph.D:</strong> Northwestern Polytechnical University </p>
+                <p><strong>Email:</strong> yshi58@cityu.edu.hk </p>
+            </div>
+        </div>
     </div>
 
     <div class="section-header">PhD Students</div>
