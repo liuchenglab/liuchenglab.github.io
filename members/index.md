@@ -144,6 +144,18 @@ permalink: /members/
                 <p><strong>Email:</strong> yshi58@cityu.edu.hk </p>
             </div>
         </div>
+
+        <div class="member-card">
+            <div class="member-photo">
+                <img src="../images/hry.jpg" alt="HUANG Ruyi">
+            </div>
+            <div class="member-info">
+                <h2>Dr. HUANG Ruyi (Postdoctoral Fellow, 2025.05-present)</h2>
+                <p><strong>B.E:</strong> Qingdao University </p>
+                <p><strong>Ph.D:</strong> South China University of Technology </p>
+                <p><strong>Email:</strong> snowxiaoyu@hotmail.com </p>
+            </div>
+        </div>
     </div>
 
     <div class="section-header">PhD Students</div>
