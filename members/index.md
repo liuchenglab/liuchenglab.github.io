@@ -198,6 +198,31 @@ permalink: /members/
         </div>
     </div>
 
+    <div class="section-header">Incoming PhD Students</div>
+    <div class="members-grid">
+        <div class="member-card">
+            <div class="member-photo">
+                <img src="../images/zhangyw.jpg" alt="ZHANG Yanwei">
+            </div>
+            <div class="member-info">
+                <h2>Mr.ZHANG Yanwei (PhD student, 2026.01-)</h2>
+                <p><strong>B.E:</strong> Sichuan University </p>
+                <p><strong>Msc:</strong> City University of Hong Kong </p>
+                <p><strong>Email:</strong> tzhang795-c@my.cityu.edu.hk </p>
+            </div>
+        </div>
+        <div class="member-card">
+            <div class="member-photo">
+                <img src="../images/cai.jpg" alt="CAI Shenghao">
+            </div>
+            <div class="member-info">
+                <h2>Mr.CAI Shenghao (PhD student, 2026.01-)</h2>
+                <p><strong>B.E:</strong> Harbin Institute of Technology </p>
+                <p><strong>Email:</strong> shenghaocai33@gmail.com </p>
+            </div>
+        </div>
+    </div>
+
     <div class="section-header">Research Assistant</div>
     <div class="members-grid">
         <div class="member-card">
