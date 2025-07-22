@@ -202,10 +202,10 @@ permalink: /members/
     <div class="members-grid">
         <div class="member-card">
             <div class="member-photo">
-                <img src="../images/zhangyw.jpg" alt="ZHANG Yanwei">
+                <img src="../images/zhangyw.jpg" alt="ZHANG Tingwei">
             </div>
             <div class="member-info">
-                <h2>Mr.ZHANG Yanwei (PhD student, 2026.01-)</h2>
+                <h2>Mr.ZHANG Tingwei (PhD student, 2026.01-)</h2>
                 <p><strong>B.E:</strong> Sichuan University </p>
                 <p><strong>Msc:</strong> City University of Hong Kong </p>
                 <p><strong>Email:</strong> tzhang795-c@my.cityu.edu.hk </p>
