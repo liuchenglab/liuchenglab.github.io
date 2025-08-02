@@ -170,7 +170,6 @@ permalink: /members/
                 <p><strong>M.E:</strong> Shandong University</p>
                 <p><strong>Email:</strong> yingchao.zhang@my.cityu.edu.hk</p>
                 <p><strong>Tel:</strong> +852-56396211</p>
-                <p><strong>Personal website:</strong> <a href="https://yingchaoao.github.io/" target="_blank">https://yingchaoao.github.io/</a></p>
             </div>
         </div>
         <div class="member-card">
