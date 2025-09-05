@@ -57,6 +57,9 @@
     <img src="../images/eswa2024.png" alt="">
     
     <h2>6. Multi-agent and multi-object deep reinforcement learning for predictive maintenance</h2>
+    <p>To address the complex interdependency and temporal constraints between the core objectives of "replacement" and "maintenance" in traditional PdM, a multi-objective multi-agent reinforcement learning decision-making framework is developed. The proposed SMOMA-PPO algorithm assigns distinct agents to optimize "inspection intervals" and "replacement timing," effectively resolving the challenge of sequential multi-objective optimization in maintenance decisions.
+By integrating quantile regression, a high-precision probabilistic RUL prediction model is established, providing comprehensive probability distribution information on degradation states. This significantly enhances prediction accuracy during the later stages of the system life cycle.</p>
+    <img src="../images/p6.png" alt="">
 
     <h2>7. Large Language Models and Vision Language Models for Structural Health Monitoring</h2>
     <p>We propose the DamageQwen framework for non-destructive road damage detection. Existing methods, such as image processing and convolutional neural networks, can identify damage, but they require large amounts of labeled data and often only output the location and category of the damage, lacking the ability to describe complex situations or interactivity. DamageQwen combines the precise detection capabilities of YOLO v11x with the semantic understanding of the Visual Language Model (VLM). Using the CLIP module, it eliminates redundant detections and generates structured prompts, guiding the VLM to output natural language descriptions. The framework supports few-shot learning (1–4 shots), maintaining high accuracy even with minimal labeled data. </p>
