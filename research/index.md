@@ -53,8 +53,14 @@
     <img src="../images/xb-3.png" alt="">
 
     <h2>5. Structural Digital Twin</h2>
+    <p>This study proposes a structural digital twin (SDT)-based approach. By performing wavelet transforms on the response signals of the digital twin and the real structure, source and target domain features are constructed. Feature encoders are then used to embed and concatenate features, and knowledge transfer is achieved within a meta-training framework. The study further optimizes the model by calculating a relationship score matrix and combining pre-training with various loss functions (such as adversarial loss and distribution matching loss). This allows for rapid adaptation and testing in the target domain, thereby improving cross-domain modeling and generalization capabilities in structural health monitoring. </p>
     <img src="../images/eswa2024.png" alt="">
+    
     <h2>6. Multi-agent and multi-object deep reinforcement learning for predictive maintenance</h2>
+
+    <h2>7. Large Language Models and Vision Language Models for Structural Health Monitoring</h2>
+    <p>We propose the DamageQwen framework for non-destructive road damage detection. Existing methods, such as image processing and convolutional neural networks, can identify damage, but they require large amounts of labeled data and often only output the location and category of the damage, lacking the ability to describe complex situations or interactivity. DamageQwen combines the precise detection capabilities of YOLO v11x with the semantic understanding of the Visual Language Model (VLM). Using the CLIP module, it eliminates redundant detections and generates structured prompts, guiding the VLM to output natural language descriptions. The framework supports few-shot learning (1–4 shots), maintaining high accuracy even with minimal labeled data. </p>
+    <img src="../images/llm-1.png" alt="">
 
 </body>
 </html>
