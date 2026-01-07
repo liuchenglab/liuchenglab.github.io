@@ -122,17 +122,7 @@ permalink: /members/
 
     <div class="section-header">Postdoctoral Fellows</div>
     <div class="members-grid">
-        <div class="member-card">
-            <div class="member-photo">
-                <img src="../images/LSF.png" alt="LI Shufei">
-            </div>
-            <div class="member-info">
-                <h2>Dr. LI Shufei (Postdoctoral Fellow, 2025.01-present)</h2>
-                <p><strong>Ph.D:</strong> The Hong Kong Polytechnic University </p>
-                <p><strong>Email:</strong> shufei.li@outlook.com </p>
-            </div>
-        </div>
-
+    
         <div class="member-card">
             <div class="member-photo">
                 <img src="../images/shiyan.jpg" alt="SHI Yan">
@@ -172,6 +162,7 @@ permalink: /members/
                 <p><strong>Tel:</strong> +852-56396211</p>
             </div>
         </div>
+        
         <div class="member-card">
             <div class="member-photo">
                 <img src="../images/xuebing.png" alt="XU Xuebing">
@@ -183,6 +174,7 @@ permalink: /members/
                 <p><strong>Email:</strong> xuebinxu-c@my.cityu.edu.hk </p>
             </div>
         </div>
+        
         <div class="member-card">
             <div class="member-photo">
                 <img src="../images/cy.png" alt="CHEN Yan">
@@ -195,10 +187,7 @@ permalink: /members/
                 <p><strong>Tel:</strong> +852-69112315</p>
             </div>
         </div>
-    </div>
 
-    <div class="section-header">Incoming PhD Students</div>
-    <div class="members-grid">
         <div class="member-card">
             <div class="member-photo">
                 <img src="../images/zhangyw.jpg" alt="ZHANG Tingwei">
@@ -210,6 +199,7 @@ permalink: /members/
                 <p><strong>Email:</strong> tzhang795-c@my.cityu.edu.hk </p>
             </div>
         </div>
+
         <div class="member-card">
             <div class="member-photo">
                 <img src="../images/cai.jpg" alt="CAI Shenghao">
@@ -220,6 +210,7 @@ permalink: /members/
                 <p><strong>Email:</strong> shenghaocai33@gmail.com </p>
             </div>
         </div>
+        
     </div>
 
     <div class="section-header">Research Assistant</div>
@@ -236,6 +227,21 @@ permalink: /members/
             </div>
         </div>
     </div>
+
+    <div class="section-header">Alumni</div>
+    <div class="members-grid">
+        <div class="member-card">
+            <div class="member-photo">
+                <img src="../images/LSF.png" alt="LI Shufei">
+            </div>
+            <div class="member-info">
+                <h2>Dr. LI Shufei</h2>
+                <p><strong>Current Position: </strong> Associate Professor, Tianjin University </p>
+                <p><strong>Email:</strong> shufei.li@outlook.com </p>
+            </div>
+        </div>
+    </div>
+    
 </body>
 </html>
 
