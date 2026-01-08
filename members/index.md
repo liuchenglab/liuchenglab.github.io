@@ -155,7 +155,7 @@ permalink: /members/
                 <img src="../images/yc1.png" alt="ZHANG Yingchao">
             </div>
             <div class="member-info">
-                <h2>ZHANG Yingchao (PhD student, 2023.09-present)</h2>
+                <h2>Mr. ZHANG Yingchao (PhD student, 2023.09-present)</h2>
                 <p><strong>B.E:</strong> Shandong University</p>
                 <p><strong>M.E:</strong> Shandong University</p>
                 <p><strong>Email:</strong> yingchao.zhang@my.cityu.edu.hk</p>
@@ -168,7 +168,7 @@ permalink: /members/
                 <img src="../images/xuebing.png" alt="XU Xuebing">
             </div>
             <div class="member-info">
-                <h2>XU Xuebing (PhD student, 2024.01-present)</h2>
+                <h2>Mr. XU Xuebing (PhD student, 2024.01-present)</h2>
                 <p><strong>B.E:</strong> Huazhong University of Science and Technology</p>
                 <p><strong>M.E:</strong> Huazhong University of Science and Technology</p>
                 <p><strong>Email:</strong> xuebinxu-c@my.cityu.edu.hk </p>
@@ -180,7 +180,7 @@ permalink: /members/
                 <img src="../images/cy.png" alt="CHEN Yan">
             </div>
             <div class="member-info">
-                <h2>CHEN Yan (PhD student, 2024.09-present)</h2>
+                <h2>Mr. CHEN Yan (PhD student, 2024.09-present)</h2>
                 <p><strong>B.E:</strong> National University of Defense Technology</p>
                 <p><strong>Msc:</strong> City University of Hong Kong</p>
                 <p><strong>Email:</strong> ychen935-c@my.cityu.edu.hk</p>
@@ -235,7 +235,7 @@ permalink: /members/
                 <img src="../images/LSF.png" alt="LI Shufei">
             </div>
             <div class="member-info">
-                <h2>Dr. LI Shufei</h2>
+                <h2>Dr. LI Shufei (Postdoctoral Fellow)</h2>
                 <p><strong>Current Position: </strong> Associate Professor, Tianjin University </p>
                 <p><strong>Email:</strong> shufei.li@outlook.com </p>
             </div>
