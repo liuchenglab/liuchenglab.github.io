@@ -15,7 +15,7 @@ redirect_from:
 
     <div style="margin-bottom: 20px;">
         <h2 style="color: #333; border-bottom: 2px solid #ddd; padding-bottom: 5px;">Research Focus</h2>
-        <p>Prof. LIU Cheng's research group focuses on Structural Health Monitoring, Nondestructive Testing, Smart Structures, Cyber-physical Systems (Digital Twin), and Mechanics of Aerospace Composites. Recently, Prof. Liu's group has integrated multimodal large models and Embodied AI, aiming to enhance the perception and autonomy of intelligent engineering systems. A recent key priority of their work is to ensure reliability through Uncertainty Quantification and Explainable AI, transforming complex data-driven models into robust, transparent solutions that can be widely adopted in real-world Industry 4.0 scenarios.</p>
+        <p>Prof. LIU Cheng's research group focuses on Aerospace and Civil Structural Health Monitoring, Nondestructive Testing, Smart Structures, Cyber-physical Systems (Digital Twin), and Mechanics of Aerospace Composites. Recently, Prof. Liu's group has integrated multimodal large models and Embodied AI to enhance the perception and autonomy of intelligent engineering systems. A recent key priority of their work is to ensure reliability through Uncertainty Quantification and Explainable AI, transforming complex data-driven models into robust, transparent solutions that can be widely adopted in real-world Industry 4.0 scenarios.</p>
     </div>
 
     <div style="margin-bottom: 20px;">
