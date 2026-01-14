@@ -20,7 +20,7 @@ redirect_from:
 
     <div style="margin-bottom: 20px;">
         <h2 style="color: #333; border-bottom: 2px solid #ddd; padding-bottom: 5px;">Biography</h2>
-        <p>Dr. Liu received his PhD from the Department of Mechanical Engineering at Stanford University. He obtained his M.Sc. in Aeronautics and Astronautics from Stanford University in 2015 and his B.Sc. in Aircraft Design and Engineering from Nanjing University of Aeronautics and Astronautics (NUAA) in 2013.</p>
+        <p>Prof. Liu received his PhD from Stanford Structures and Composites Lab (SACL) in the Department of Aeronautics and Astronautics at Stanford University. He obtained his M.Sc. in Aeronautics and Astronautics from Stanford University in 2015 and his B.Sc. in Aircraft Design and Engineering, from Nanjing University of Aeronautics and Astronautics (NUAA) in 2013.</p>
     </div>
 
     <div style="margin-bottom: 20px;">
