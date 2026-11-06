@@ -210,22 +210,20 @@ permalink: /members/
                 <p><strong>Email:</strong> shenghaocai33@gmail.com </p>
             </div>
         </div>
-        
-    </div>
 
-    <div class="section-header">Research Assistant</div>
-    <div class="members-grid">
+        
         <div class="member-card">
             <div class="member-photo">
                 <img src="../images/dong-ao.jpg" alt="DONG Ao">
             </div>
             <div class="member-info">
-                <h2>Mr.DONG Ao (Research Assistant, 2025.01-present)</h2>
+                <h2>Mr.DONG Ao (PhD student, 2026.09-)</h2>
                 <p><strong>B.E:</strong> Shijiazhuang Tiedao University </p>
                 <p><strong>M.E:</strong> Tianjin University </p>
                 <p><strong>Email:</strong> adong5@um.cityu.edu.hk </p>
             </div>
         </div>
+        
     </div>
 
     <div class="section-header">Alumni</div>
