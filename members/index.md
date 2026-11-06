@@ -193,7 +193,7 @@ permalink: /members/
                 <img src="../images/zhangyw.jpg" alt="ZHANG Tingwei">
             </div>
             <div class="member-info">
-                <h2>Mr.ZHANG Tingwei (PhD student, 2026.01-)</h2>
+                <h2>Mr.ZHANG Tingwei (PhD student, 2026.01-present)</h2>
                 <p><strong>B.E:</strong> Sichuan University </p>
                 <p><strong>Msc:</strong> City University of Hong Kong </p>
                 <p><strong>Email:</strong> tzhang795-c@my.cityu.edu.hk </p>
@@ -205,7 +205,7 @@ permalink: /members/
                 <img src="../images/cai.jpg" alt="CAI Shenghao">
             </div>
             <div class="member-info">
-                <h2>Mr.CAI Shenghao (PhD student, 2026.01-)</h2>
+                <h2>Mr.CAI Shenghao (PhD student, 2026.01-present)</h2>
                 <p><strong>B.E:</strong> Harbin Institute of Technology </p>
                 <p><strong>Email:</strong> shenghaocai33@gmail.com </p>
             </div>
@@ -217,7 +217,7 @@ permalink: /members/
                 <img src="../images/dong-ao.jpg" alt="DONG Ao">
             </div>
             <div class="member-info">
-                <h2>Mr.DONG Ao (PhD student, 2026.09-)</h2>
+                <h2>Mr.DONG Ao (PhD student, 2026.09-present)</h2>
                 <p><strong>B.E:</strong> Shijiazhuang Tiedao University </p>
                 <p><strong>M.E:</strong> Tianjin University </p>
                 <p><strong>Email:</strong> adong5@um.cityu.edu.hk </p>
