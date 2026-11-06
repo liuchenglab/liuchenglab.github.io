@@ -46,7 +46,7 @@
 
   <!-- 项目 3 -->
   <div class="project-container">
-    <div class="project-title">National Key R&D Program of China – Key Special Program on Strategic Science and Technology Innovation Cooperation (Low-Altitude Flight System Technology) 科技部国家重点研发计划“战略性科技创新合作”重点专项 (低空飞行系统技术) (PI)</div>
+    <div class="project-title">National Key R&D Program of China – Key Special Program on Strategic Science and Technology Innovation Cooperation (Low-Altitude Flight System Technology) <br> 科技部国家重点研发计划“战略性科技创新合作”重点专项 (低空飞行系统技术) <br> (PI)</div>
     <div class="project-description">
       Research on Key Technologies for Structural Health Monitoring and Safety Assessment of Ton-Class eVTOL Rotor Systems
     </div>
